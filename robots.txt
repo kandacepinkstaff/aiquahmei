@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://johlainga.moonconf.org/sitemap.xml
